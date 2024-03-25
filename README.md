@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Muddasir19
-- 👀 I’m interested in Python Django
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django
+- 👀 I’m interested in React JS
+- 🌱 I’m currently learning React JS
+- 💞️ I’m looking to collaborate on React JS
 - 📫 How to reach me 
 
 <!---
